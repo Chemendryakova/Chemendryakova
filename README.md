@@ -1,6 +1,8 @@
 ![Header](https://github.com/Chemendryakova/Chemendryakova/blob/main/assets/quality-assurance-can-you-qa-that.jpeg)
 
 ## I'm a QA Engineer
+## My CV
+[Link to my CV](https://drive.google.com/file/d/18N4p5aXGyakc2Unq9Jp-cdeS2XVeb8oS/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -11,4 +13,11 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-Follow me
+### Testing Documentation
+- [Checklists]
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [Postman Collections]
+
+### Follow Me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Chemendryakovana)

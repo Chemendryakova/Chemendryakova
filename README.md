@@ -15,17 +15,19 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=apache&logoColor=d75731)
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=dark)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=dark)
-
-
 
 ### Testing Documentation
 - [Checklists]
 - [Test-Suites and Test-Cases]
 - [Bug-Reports](https://drive.google.com/file/d/1_mP8yQIzDkrJqD0ermc0UI0hbDzlIrSS/view?usp=share_link)
 - [Postman Collections](https://www.postman.com/solar-equinox-31140/workspace/3e3517b2-1d60-4539-a4e4-29e92f45fd93/collection/14628864-2dd98751-8273-4220-bdd5-4ac31df0004e?action=share&creator=14628864)
+
+### Certificates and Recommendations
+- [Recommendation and recommendation letter](https://docs.google.com/document/d/1zEkfLl3d1rqspaz4kMDJR13XHBtBy39W/edit?usp=sharing&ouid=118084257322826251034&rtpof=true&sd=true)
+- [Internship Certificate](https://drive.google.com/file/d/1tVZOnisY2XFWPtwYC3PQcbl4El7TsaVb/view?usp=share_link)
+- [Certificate of participation in the BUGBUSTERS championship](https://drive.google.com/file/d/1KEqBX5muJwIviC8RXBRphvH51DYWl7C-/view?usp=share_link)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Chemendryakovana)

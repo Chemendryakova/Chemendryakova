@@ -1,4 +1,4 @@
-![Header](https://github.com/Chemendryakova/Chemendryakova/blob/main/assets/depositphotos_7796990-stock-photo-questions-and-answers.jpeg)
+![Header](https://github.com/Chemendryakova/Chemendryakova/blob/main/assets/quality-assurance-can-you-qa-that.jpeg)
 
 ## I'm a QA Engineer
 

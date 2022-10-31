@@ -16,8 +16,8 @@
 ### Testing Documentation
 - [Checklists]
 - [Test-Suites and Test-Cases]
-- [Bug-Reports]
-- [Postman Collections]
+- [Bug-Reports](https://drive.google.com/file/d/1_mP8yQIzDkrJqD0ermc0UI0hbDzlIrSS/view?usp=share_link)
+- [Postman Collections](https://www.postman.com/solar-equinox-31140/workspace/3e3517b2-1d60-4539-a4e4-29e92f45fd93/collection/14628864-2dd98751-8273-4220-bdd5-4ac31df0004e?action=share&creator=14628864)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Chemendryakovana)

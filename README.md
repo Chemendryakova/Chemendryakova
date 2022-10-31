@@ -14,7 +14,7 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=apache&logoColor=d75731)
-![Header](https://img.shields.io/badge/Qase-blue?style=for-the-badge)
+![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=dark)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=dark)
